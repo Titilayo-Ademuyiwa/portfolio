@@ -96,11 +96,6 @@ body {
     margin-top: 10vh;
     box-shadow: 0 0 30px black;
 }
-@media screen and (max-width:480px){
-    .carousel{
-        margin-top: 15vh;
-    }
-}
 .carousel::-webkit-scrollbar {
     display: none;
 }
