@@ -82,7 +82,6 @@ body {
 
 .name {
     background: powderblue;
-    color: white;
     transform: perspective(1000px) skewX(30deg) translateZ(50px);
 }
 
